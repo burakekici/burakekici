@@ -1,9 +1,9 @@
-### Hi there 👋 I am Burak!
+### Hi there 👋🏻
 
-A game developer based in Turkey.
+I am a game developer based in Turkey.
 
 <!--### You can also find me on-->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burakekici/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/burakekici/)
 
 <!--
 **burakekici/burakekici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
